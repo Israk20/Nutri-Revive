@@ -16,10 +16,10 @@ const int echoPin = D2; // Connect to ECHO pin on HC-SR04
 #define WIFI_PASSWORD "--------"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyCxJh_CeQUpWWI0aSnD0DwT4WRkq1ifb-c"
+#define API_KEY ""
 
 // Insert RTDB URL
-#define DATABASE_URL "https://nutri-revive-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define DATABASE_URL ""
 
 // Define Firebase Data object
 FirebaseData fbdo;
